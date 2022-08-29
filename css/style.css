@@ -20,13 +20,16 @@ img.title{
     color: blue;
 }
 .foto-sinistra{
-    width: 450px;
+    width: 410px;
     height: 280px;
 }
 .foto-destra{
-    width: 400px;
+    width: 450px;
     height: 280px;
     
+}
+.descrizione-foto{
+    font-size: 0.75rem;
 }
 .evidenza{
     background-color: yellow;
