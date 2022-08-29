@@ -1,6 +1,7 @@
 body{
     margin: auto;
     width: 50%;
+    
 }
 #intestazione{
 background-color: cornflowerblue;
@@ -33,4 +34,22 @@ img.title{
 }
 .evidenza{
     background-color: yellow;
+}
+thead{
+    background-color: rgb(15, 109, 191);
+    color: aliceblue;
+    text-align: left;
+}
+.riga-principale{
+    background-color: aquamarine;
+}
+.colonne{
+    width: 10%;
+    text-align: left;
+}
+.colonna-descrittiva{
+width: 25%;
+}
+.riga-finale{
+    background-color: aquamarine;
 }
