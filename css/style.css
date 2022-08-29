@@ -1,12 +1,30 @@
+body{
+    margin: auto;
+    width: 50%;
+}
 #intestazione{
 background-color: cornflowerblue;
 background-image: url(../foto/pattern.png);
 background-size: cover; 
 background-size: 15%; 
-
-
 }
 
 img.title{
     height: 50px;
+}
+.sottotitolo{
+    font-size: 1rem;
+    color: grey;
+}
+.autore{
+    color: blue;
+}
+.foto-sinistra{
+    width: 450px;
+    height: 280px;
+}
+.foto-destra{
+    width: 400px;
+    height: 280px;
+    
 }
