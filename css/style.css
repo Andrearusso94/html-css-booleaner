@@ -53,3 +53,10 @@ width: 25%;
 .riga-finale{
     background-color: aquamarine;
 }
+.fine{
+    color: rgb(126, 120, 120);
+    font-weight: bolder;
+}
+.foto-grafico{
+    display: block;
+}
