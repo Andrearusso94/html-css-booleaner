@@ -1,0 +1,12 @@
+#intestazione{
+background-color: cornflowerblue;
+background-image: url(../foto/pattern.png);
+background-size: cover; 
+background-size: 15%; 
+
+
+}
+
+img.title{
+    height: 50px;
+}
